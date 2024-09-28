@@ -8,7 +8,7 @@ Prankware is not responsable for any destruction of property!
 By downloading an using prankware you agree to these terms
 
 # How to use
-1. Simpley download the latest release
+1. Simply download the latest release
 2. Send to an unsuspecting friend
 3. Say "I made this cool app"
 4. And watch them freak out!
