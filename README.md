@@ -22,5 +22,5 @@ PrankWare is not a virus it simply emulates the feeling of a virus by using thin
 - CMD randomizer
 - Noise player (Supper annoying)
 - Custom AD
-- Fake BSOD
+- Fake update (Windows only)
 - Shutoff (Not compatable w/ Record the commotion)
