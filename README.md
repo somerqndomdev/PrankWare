@@ -13,9 +13,9 @@ Your one stop shop for computer pranks!
 4. And watch them freak out!
 
 # Disclamer!
-PrankWare is only available on windows, mac, and linux
-PrankWare is not a virus it simply emulates the feeling of a virus by using things like Tkinter to make fake gui pop ups and more!
-
+- PrankWare is only available on windows, mac, and linux
+- PrankWare is not a virus it simply emulates the feeling of a virus by using things like Tkinter to make fake gui pop ups and more!
+- PrankWare deletes all the old realeases when a new one comes out (Unless it's pre beta)
 # pranks we are adding
 - Rick roll
 - Record the commotion
