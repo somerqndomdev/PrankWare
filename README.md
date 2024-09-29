@@ -16,7 +16,11 @@ Your one stop shop for computer pranks!
 PrankWare is only available on windows, mac, and linux
 PrankWare is not a virus it simply emulates the feeling of a virus by using things like Tkinter to make fake gui pop ups and more!
 
-# Features to add
-- Rickroll
-- More pranks
-- Record the commotion 
+# pranks we are adding
+- Rick roll
+- Record the commotion
+- CMD randomizer
+- Noise player (Supper annoying)
+- Custom AD
+- Fake BSOD
+- Shutoff (Not compatable w/ Record the commotion)
