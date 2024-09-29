@@ -15,7 +15,7 @@ Your one stop shop for computer pranks!
 # Disclamer!
 - PrankWare is only available on windows, mac, and linux
 - PrankWare is not a virus it simply emulates the feeling of a virus by using things like Tkinter to make fake gui pop ups and more!
-- PrankWare deletes all the old realeases when a new one comes out (Unless it's pre beta)
+- PrankWare deletes all the old realeases when a new one comes out. The old realeases are put as seperate files from the actual realease tab
 # pranks we are adding
 - Rick roll
 - Record the commotion
